@@ -5,26 +5,30 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
 
 # Work Experience
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
+1.  Kuzey Balık, Operations and Pre-Accounting Staff, 2023
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  TÜBİTAK SAGE, Business Development and Marketing Intern, 2025
 
-2.  Firm bbb, position yyy, year yyy
+2.  Turkish Aerospace Industries, Quality Control Aerospace Structures Intern, 2025
+
+3.  Er-Bakır, Production Planning and Control Intern, 2024
 
 # Projects
 
+1.  Developing a Commercialization Framework for an Energy-efficient Air Compressor Prototype
+
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, MySQL, AutoCAD
 
 # Hobbies
+
+Judo, Traveling
