@@ -33,4 +33,6 @@ R, Quarto, Git, Python, MySQL, AutoCAD, MS Excel
 
 Judo, Traveling
 
-\[Download my CV(PDF)\](CV_files/Cihangir_Alperen_Tokgöz_CV.pdf)
+# CV
+
+[Download my CV(PDF)](CV_files/Cihangir_Alperen_Tokgöz_CV.pdf)
