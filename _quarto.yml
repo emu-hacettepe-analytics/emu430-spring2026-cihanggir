@@ -45,11 +45,8 @@ format:
   html:
     toc: true
     toc-location: left
-    theme: 
-      light: pulse 
-      dark: superhero
+    theme: flatly
     css: styles.css
-
 
 editor: visual
 
