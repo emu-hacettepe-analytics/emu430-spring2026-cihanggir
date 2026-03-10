@@ -35,5 +35,6 @@ Judo, Traveling
 
 # CV
 
-[Download my CV EN(PDF)](CV_files/Cihangir_Alperen_Tokgöz_CV.pdf) 
+[Download my CV EN(PDF)](CV_files/Cihangir_Alperen_Tokgöz_CV.pdf)
+
 [Download my CV TR(PDF)](CV_files/Cihangir_Alperen_Tokgöz_CV_TR.pdf)
