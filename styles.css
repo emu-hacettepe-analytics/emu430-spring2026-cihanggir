@@ -1,1 +1,87 @@
 /* css styles */
+/* Genel sayfa */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #1b1f23;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #0b1f5e !important; /* lacivert */
+  border-bottom: 3px solid #f4c430;     /* sarı çizgi */
+}
+
+/* Navbar yazıları ve ikonlar */
+.navbar a,
+.navbar-brand,
+.navbar .nav-link,
+.navbar .bi {
+  color: #ffffff !important;
+  font-weight: 600;
+}
+
+/* Hover efekti */
+.navbar a:hover,
+.navbar-brand:hover,
+.navbar .nav-link:hover,
+.navbar .bi:hover {
+  color: #f4c430 !important; /* sarı */
+}
+
+/* Aktif menü */
+.navbar .nav-link.active {
+  color: #f4c430 !important;
+}
+
+/* Başlıklar */
+h1, h2, h3, h4 {
+  color: #0b1f5e;
+}
+
+/* Linkler */
+a {
+  color: #0b1f5e;
+}
+
+a:hover {
+  color: #d4a900;
+}
+
+/* Butonlar */
+.btn,
+.btn-primary {
+  background-color: #0b1f5e !important;
+  border-color: #0b1f5e !important;
+  color: white !important;
+}
+
+.btn:hover,
+.btn-primary:hover {
+  background-color: #f4c430 !important;
+  border-color: #f4c430 !important;
+  color: #0b1f5e !important;
+}
+
+/* Sidebar */
+.sidebar nav[role="doc-toc"] {
+  border-left: 3px solid #f4c430;
+}
+
+/* Footer */
+.nav-footer,
+.footer {
+  background-color: #0b1f5e;
+  color: white !important;
+  border-top: 3px solid #f4c430;
+}
+
+.nav-footer a,
+.footer a {
+  color: #f4c430 !important;
+}
+
+.nav-footer a:hover,
+.footer a:hover {
+  color: #ffffff !important;
+}
