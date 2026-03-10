@@ -27,11 +27,10 @@ sidebar: false
 
 # Competencies
 
-R, Quarto, Git, Python, MySQL, AutoCAD
+R, Quarto, Git, Python, MySQL, AutoCAD, MS Excel
 
 # Hobbies
 
 Judo, Traveling
 
-
-[Download my CV(PDF)] (CV_files/Cihangir_Alperen_Tokgoz_CV.pdf)
+\[Download my CV(PDF)\] (CV_files/Cihangir_Alperen_Tokgöz_CV.pdf)
