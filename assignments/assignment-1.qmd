@@ -38,3 +38,68 @@ C) Collecting only large amounts of data\
 D) Choosing deep learning for every problem
 
 ## (b)
+
+```{r}
+# Import the polls_us_election_2016 data set from the dslabs package.
+library(dslabs)
+data("polls_us_election_2016")
+
+# At the top of your document, define the following two variables (use your own information):
+my_first <- "Cihangir"
+my_birth_year <- 2002
+
+# Define an integer k as follows:
+k <- (nchar(my_first) + my_birth_year) %% 15 + 8
+
+
+# Display k rows of the original data set on your web page using this rule:
+if (k %% 2 == 0) {
+    head(polls_us_election_2016, k)
+} else {
+    tail(polls_us_election_2016, k)
+}
+
+# the total number of NA values in the entire data set
+total_na <- sum(is.na(polls_us_election_2016))
+total_na
+
+# the number of NA values per column
+na_per_column <- sapply(polls_us_election_2016, function(x) sum(is.na(x)))
+
+# sorted from largest to smallest (display the top 8 columns)
+na_per_column_sorted <- sort(na_per_column, decreasing = TRUE)
+head(na_per_column_sorted, 8)
+
+# Replace all NA values in the data set as follows and store the result as a new object (do not overwrite the original):
+new_data <- polls_us_election_2016
+num_replacement <- my_birth_year + k
+char_replacement <- paste0(my_first, "_", k)
+
+# For numeric columns: replace NA values with my_birth_year + k
+numeric_cols <- sapply(new_data, is.numeric)
+new_data[numeric_cols] <- lapply(new_data[numeric_cols], function(x) {
+    x[is.na(x)] <- num_replacement
+    x
+})
+
+# For character or factor columns: replace NA values with paste0(my_first, "_", k)
+char_factor_cols <- sapply(new_data, function(x) is.character(x) || is.factor(x))
+new_data[char_factor_cols] <- lapply(new_data[char_factor_cols], function(x) {
+    x <- as.character(x)
+    x[is.na(x)] <- char_replacement
+    x
+})
+
+# Display k rows of the new data frame using the exact same rule as above:
+if (k %% 2 == 0) {
+    head(new_data, k)
+} else {
+    tail(new_data, k)
+}
+
+# Display the total number of NA values remaining in the new data frame.
+sum(is.na(new_data))
+
+# Also print anyNA(new_data) (it should return FALSE if you replaced correctly).
+anyNA(new_data)
+```
