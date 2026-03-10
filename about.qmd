@@ -32,3 +32,6 @@ R, Quarto, Git, Python, MySQL, AutoCAD
 # Hobbies
 
 Judo, Traveling
+
+
+[Download my CV(PDF)] (CV_files/Cihangir_Alperen_Tokgoz_CV.pdf)
