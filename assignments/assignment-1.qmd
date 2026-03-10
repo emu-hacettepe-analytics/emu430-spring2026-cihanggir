@@ -2,7 +2,7 @@
 title: "Assignment 1"
 ---
 
-# (a) Conversations on Data Science and Industrial Engineering - Mustafa Baydoğan & Erdi Daşdemir (Seminar Video)
+# (a) Conversations on Data Science and Industrial Engineering - Mustafa Baydoğan & Erdi Daşdemir
 
 ## **Brief Summary**
 
