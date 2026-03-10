@@ -49,7 +49,7 @@
     "href": "assignments/assignment-1.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts.",
+    "text": "Brief Summary\nIn this video, Mustafa Baydoğan explains how data science and industrial engineering work together.\nHis most important point is this: Before solving a problem, you need to understand it well. Simply feeding data into a computer and waiting for results isn’t enough. First, you need to understand why the problem exists, then collect the right data.\nHe gives various examples in his talk. For instance, he discusses predicting why lumber warps, estimating electricity consumption, and how to rank products on websites. These examples demonstrate how data science is used in many real-world applications.\nHe also says that simple and understandable models are often more useful. Because in business, it’s not enough to just get the right result; you also need to explain why that result occurred.\nHis most important advice to students is this: This field is best learned by doing. Just watching lectures isn’t enough. You need to work on real problems, practice, and learn through mistakes.\nIn short, this seminar shows that data science is not just a technical field; it needs to be considered in conjunction with problem understanding, correct thinking, and decision-making processes.\nQuestions\n\nOpen-ended Question & Answer\n\nalkdslax\n\nMultiplechoice Question & Answer\n\nSSDLSLD",
     "crumbs": [
       "Assignment 1"
     ]
@@ -70,5 +70,25 @@
     "title": "My Blog",
     "section": "",
     "text": "This page is under construction.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assignments/assignment-1.html#a",
+    "href": "assignments/assignment-1.html#a",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Brief Summary of Conversations on Data Science and Industrial Engineering - Mustafa Baydoğan & Erdi Daşdemir\nIn this video, Mustafa Baydoğan explains how data science and industrial engineering work together.\nHis most important point is this: Before solving a problem, you need to understand it well. Simply feeding data into a computer and waiting for results isn’t enough. First, you need to understand why the problem exists, then collect the right data.\nHe gives various examples in his talk. For instance, he discusses predicting why lumber warps, estimating electricity consumption, and how to rank products on websites. These examples demonstrate how data science is used in many real-world applications.\nHe also says that simple and understandable models are often more useful. Because in business, it’s not enough to just get the right result; you also need to explain why that result occurred.\nHis most important advice to students is this: This field is best learned by doing. Just watching lectures isn’t enough. You need to work on real problems, practice, and learn through mistakes.\nIn short, this seminar shows that data science is not just a technical field; it needs to be considered in conjunction with problem understanding, correct thinking, and decision-making processes.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#a-conversations-on-data-science-and-industrial-engineering---mustafa-baydoğan-erdi-daşdemir-seminar-video",
+    "href": "assignments/assignment-1.html#a-conversations-on-data-science-and-industrial-engineering---mustafa-baydoğan-erdi-daşdemir-seminar-video",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Brief Summary\nIn this video, Mustafa Baydoğan explains how data science and industrial engineering work together.\nHis most important point is this: Before solving a problem, you need to understand it well. Simply feeding data into a computer and waiting for results isn’t enough. First, you need to understand why the problem exists, then collect the right data.\nHe gives various examples in his talk. For instance, he discusses predicting why lumber warps, estimating electricity consumption, and how to rank products on websites. These examples demonstrate how data science is used in many real-world applications.\nHe also says that simple and understandable models are often more useful. Because in business, it’s not enough to just get the right result; you also need to explain why that result occurred.\nHis most important advice to students is this: This field is best learned by doing. Just watching lectures isn’t enough. You need to work on real problems, practice, and learn through mistakes.\nIn short, this seminar shows that data science is not just a technical field; it needs to be considered in conjunction with problem understanding, correct thinking, and decision-making processes.\nQuestions\n\nOpen-ended Question & Answer\n\nalkdslax\n\nMultiplechoice Question & Answer\n\nSSDLSLD",
+    "crumbs": [
+      "Assignment 1"
+    ]
   }
 ]

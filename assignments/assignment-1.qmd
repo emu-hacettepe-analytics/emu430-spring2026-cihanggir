@@ -4,12 +4,30 @@ title: "Assignment 1"
 
 # Assignment 1
 
-```{r}
-1 + 1
-```
+## (a) Conversations on Data Science and Industrial Engineering - Mustafa Baydoğan & Erdi Daşdemir (Seminar Video)
 
-My first assignment has two parts.
+**Brief Summary**
 
-## (a)
+In this video, Mustafa Baydoğan explains how data science and industrial engineering work together.
+
+His most important point is this: Before solving a problem, you need to understand it well. Simply feeding data into a computer and waiting for results isn’t enough. First, you need to understand why the problem exists, then collect the right data.
+
+He gives various examples in his talk. For instance, he discusses predicting why lumber warps, estimating electricity consumption, and how to rank products on websites. These examples demonstrate how data science is used in many real-world applications.
+
+He also says that simple and understandable models are often more useful. Because in business, it’s not enough to just get the right result; you also need to explain why that result occurred.
+
+His most important advice to students is this: This field is best learned by doing. Just watching lectures isn’t enough. You need to work on real problems, practice, and learn through mistakes.
+
+In short, this seminar shows that data science is not just a technical field; it needs to be considered in conjunction with problem understanding, correct thinking, and decision-making processes.
+
+**Questions**
+
+1.  Open-ended Question & Answer
+
+alkdslax
+
+2.  Multiplechoice Question & Answer
+
+SSDLSLD
 
 ## (b)
