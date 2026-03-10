@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "[Student/Group Full Name]'s Analytics Lab"
+  title: "Cihangir's Analytics Lab"
   navbar:
     search: true
     left:
@@ -22,11 +22,11 @@ website:
             
     tools:
       - icon: github
-        href: https://twitter.com
+        href: https://github.com/cihanggir
       - icon: twitter
-        href: https://twitter.com
+        href: https://x.com/cihanggir
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/cihangir-alperen-tokgöz-925695156/
 
   sidebar:
     - title: "Assignments"
