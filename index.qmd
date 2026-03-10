@@ -3,10 +3,8 @@ title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
 
-Hello! My name is Cihangir Alperen.
+Welcome
 
-This is my personal webpage.
+I am Cihangir, a senior Indsutrial Engineering student at Hacettepe University.
 
-Please stay tuned to follow my works on data analytics, blog posts, and more.
-
-This is our template.
+This weebsite presents my coursework and projects for EMU430 - Data Analytics.
