@@ -2,10 +2,11 @@
 title: "Assignment 1"
 ---
 
+# Assignment 1
 
 ## (a) Conversations on Data Science and Industrial Engineering - Mustafa Baydoğan & Erdi Daşdemir (Seminar Video)
 
-**Brief Summary**
+### **Brief Summary**
 
 In this video, Mustafa Baydoğan explains how data science and industrial engineering work together.
 
@@ -19,14 +20,21 @@ His most important advice to students is this: This field is best learned by doi
 
 In short, this seminar shows that data science is not just a technical field; it needs to be considered in conjunction with problem understanding, correct thinking, and decision-making processes.
 
-**Questions**
+### **Questions**
 
-1.  Open-ended Question & Answer
+#### Open-ended Question & Answer
 
-alkdslax
+**According to the seminar, why is learning by practice important in data science?**
 
-2.  Multiplechoice Question & Answer
+**Answer:** *Because data science involves real-world problems, messy data, and decision-making processes. For this reason, theoretical knowledge alone is not enough, and students need practical experience to understand how to apply methods correctly.*
 
-SSDLSLD
+#### Multiplechoice Question & Answer
+
+**According to the seminar, what is one of the most important steps in data science?**
+
+A\) Using the most complex algorithm\
+***B) Understanding the real problem correctly***\
+C) Collecting only large amounts of data\
+D) Choosing deep learning for every problem
 
 ## (b)
