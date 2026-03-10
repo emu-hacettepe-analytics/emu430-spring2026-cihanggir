@@ -35,7 +35,7 @@ A\) Using the most complex algorithm\
 C) Collecting only large amounts of data\
 D) Choosing deep learning for every problem
 
-# (b)Working with `polls_us_election_2016` Data Set
+# (b) Working with `polls_us_election_2016` Data Set
 
 ```{r}
 # Import the polls_us_election_2016 data set from the dslabs package.
